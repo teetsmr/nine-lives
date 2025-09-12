@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 2cf8f201bbb07764d9a6ab3f2e7e71e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3464589124655632174
+    second: yarn-ball-sprite-sheet_0
+  - first:
+      213: 1056368577384349639
+    second: yarn-ball-sprite-sheet_1
+  - first:
+      213: 8147979183464885109
+    second: yarn-ball-sprite-sheet_2
+  - first:
+      213: 2555023344949579637
+    second: yarn-ball-sprite-sheet_3
+  - first:
+      213: -8156150708607627355
+    second: yarn-ball-sprite-sheet_4
+  - first:
+      213: 2934623659990591908
+    second: yarn-ball-sprite-sheet_5
+  - first:
+      213: 3592259087019091127
+    second: yarn-ball-sprite-sheet_6
+  - first:
+      213: 4182240148447508497
+    second: yarn-ball-sprite-sheet_7
+  - first:
+      213: -8351929257325013640
+    second: yarn-ball-sprite-sheet_8
+  - first:
+      213: 5871587354722959006
+    second: yarn-ball-sprite-sheet_9
+  - first:
+      213: 4191854039796884703
+    second: yarn-ball-sprite-sheet_10
+  - first:
+      213: -4705991121558153395
+    second: yarn-ball-sprite-sheet_11
+  - first:
+      213: 569668557115057654
+    second: yarn-ball-sprite-sheet_12
+  - first:
+      213: -2674137964187664859
+    second: yarn-ball-sprite-sheet_13
+  - first:
+      213: 7770419776364057994
+    second: yarn-ball-sprite-sheet_14
+  - first:
+      213: -5963392927054672623
+    second: yarn-ball-sprite-sheet_15
+  - first:
+      213: 7391676078877277331
+    second: yarn-ball-sprite-sheet_16
+  - first:
+      213: -5215925918503873295
+    second: yarn-ball-sprite-sheet_17
+  - first:
+      213: 9071946949381106252
+    second: yarn-ball-sprite-sheet_18
+  - first:
+      213: 9123650436385793922
+    second: yarn-ball-sprite-sheet_19
+  - first:
+      213: 358554512443392030
+    second: yarn-ball-sprite-sheet_20
+  - first:
+      213: -9218427311314705279
+    second: yarn-ball-sprite-sheet_21
+  - first:
+      213: -5928789546281932318
+    second: yarn-ball-sprite-sheet_22
+  - first:
+      213: -4165519012473743098
+    second: yarn-ball-sprite-sheet_23
+  - first:
+      213: 2334289165178247913
+    second: yarn-ball-sprite-sheet_24
+  - first:
+      213: -3520546714272697263
+    second: yarn-ball-sprite-sheet_25
+  - first:
+      213: -8266471965211174997
+    second: yarn-ball-sprite-sheet_26
+  - first:
+      213: -6226365659733080268
+    second: yarn-ball-sprite-sheet_27
+  - first:
+      213: 6024307794209558183
+    second: yarn-ball-sprite-sheet_28
+  - first:
+      213: 3688362323122241655
+    second: yarn-ball-sprite-sheet_29
+  - first:
+      213: 3312443466701615931
+    second: yarn-ball-sprite-sheet_30
+  - first:
+      213: -1073977701351249392
+    second: yarn-ball-sprite-sheet_31
+  - first:
+      213: 5115345651146578412
+    second: yarn-ball-sprite-sheet_32
+  - first:
+      213: -5581377971598612450
+    second: yarn-ball-sprite-sheet_33
+  - first:
+      213: 1574598956666009304
+    second: yarn-ball-sprite-sheet_34
+  - first:
+      213: -3478803166221901214
+    second: yarn-ball-sprite-sheet_35
+  - first:
+      213: -7737152081031145349
+    second: yarn-ball-sprite-sheet_36
+  - first:
+      213: -5006673081158699741
+    second: yarn-ball-sprite-sheet_37
+  - first:
+      213: -5985163295031935277
+    second: yarn-ball-sprite-sheet_38
+  - first:
+      213: -7333774856534150204
+    second: yarn-ball-sprite-sheet_39
+  - first:
+      213: -6521576574326999066
+    second: yarn-ball-sprite-sheet_40
+  - first:
+      213: 5131533614761921406
+    second: yarn-ball-sprite-sheet_41
+  - first:
+      213: -2117334707142518160
+    second: yarn-ball-sprite-sheet_42
+  - first:
+      213: 4450037898829352103
+    second: yarn-ball-sprite-sheet_43
+  - first:
+      213: 6509427908601265853
+    second: yarn-ball-sprite-sheet_44
+  - first:
+      213: 8618996588632131546
+    second: yarn-ball-sprite-sheet_45
+  - first:
+      213: 7272590577053856519
+    second: yarn-ball-sprite-sheet_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 352
+        width: 342
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0383c1c8e4befc0800000000000000
+      internalID: -3464589124655632174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 807
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cff0eecf99f8ae00800000000000000
+      internalID: 1056368577384349639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 305
+        width: 244
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ba3b3c5ef631170800000000000000
+      internalID: 8147979183464885109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 817
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fcc84f134457320800000000000000
+      internalID: 2555023344949579637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 305
+        width: 387
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af44e6c4288fce80800000000000000
+      internalID: -8156150708607627355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 818
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a92233aba0e9b820800000000000000
+      internalID: 2934623659990591908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 815
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b421f66b944ad130800000000000000
+      internalID: 3592259087019091127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 695
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118379da14d4a0a30800000000000000
+      internalID: 4182240148447508497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 793
+        width: 88
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87553f3479cf71c80800000000000000
+      internalID: -8351929257325013640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 799
+        width: 69
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9effe117911c7150800000000000000
+      internalID: 5871587354722959006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 793
+        width: 74
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd421603a057c2a30800000000000000
+      internalID: 4191854039796884703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 783
+        width: 86
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4752632206f0beb0800000000000000
+      internalID: -4705991121558153395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 772
+        width: 129
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f56d82d88ed7e700800000000000000
+      internalID: 569668557115057654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 767
+        width: 129
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e353490bd83ead0800000000000000
+      internalID: -2674137964187664859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 751
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8599ddfd9316db60800000000000000
+      internalID: 7770419776364057994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 761
+        width: 132
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d44de6ab5cd3da0800000000000000
+      internalID: -5963392927054672623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 731
+        width: 76
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c7b302b32849660800000000000000
+      internalID: 7391676078877277331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 738
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4d2d4230f4d97b0800000000000000
+      internalID: -5215925918503873295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 739
+        width: 70
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aac0b6fa706ed70800000000000000
+      internalID: 9071946949381106252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 719
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287ec939bb7bd9e70800000000000000
+      internalID: 9123650436385793922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 716
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e104dcaed67d9f400800000000000000
+      internalID: 358554512443392030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 717
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184e351a331911080800000000000000
+      internalID: -9218427311314705279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 717
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9e0d9d155b8bda0800000000000000
+      internalID: -5928789546281932318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 279
+        width: 106
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609dd5c278a1136c0800000000000000
+      internalID: -4165519012473743098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 297
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea1e7dc0af056020800000000000000
+      internalID: 2334289165178247913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 183
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1547b908a61842fc0800000000000000
+      internalID: -3520546714272697263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 273
+        width: 98
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7dcd79b87974d80800000000000000
+      internalID: -8266471965211174997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 297
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4374be1db618799a0800000000000000
+      internalID: -6226365659733080268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 93
+        width: 158
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae4a7b4504aa9350800000000000000
+      internalID: 6024307794209558183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 297
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770c2a8bdf1bf2330800000000000000
+      internalID: 3688362323122241655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 251
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33305b68c928fd20800000000000000
+      internalID: 3312443466701615931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 295
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aa44688f67811f0800000000000000
+      internalID: -1073977701351249392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 183
+        width: 152
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce95ee774cb5df640800000000000000
+      internalID: 5115345651146578412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 279
+        width: 96
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18aca56e46fa82b0800000000000000
+      internalID: -5581377971598612450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 280
+        width: 86
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d637c398691ad510800000000000000
+      internalID: 1574598956666009304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 247
+        width: 146
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262e6d9a3fec8bfc0800000000000000
+      internalID: -3478803166221901214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 249
+        width: 140
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78d6fcec2d10a490800000000000000
+      internalID: -7737152081031145349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 249
+        width: 149
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3257603fb59b48ab0800000000000000
+      internalID: -5006673081158699741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 223
+        width: 150
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de3ae4a1bd60fca0800000000000000
+      internalID: -5985163295031935277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 251
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3379dbf92393a90800000000000000
+      internalID: -7333774856534150204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 202
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7fabf88a4be75a0800000000000000
+      internalID: -6521576574326999066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1
+        width: 163
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b4cd472aed63740800000000000000
+      internalID: 5131533614761921406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 202
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a1a2e4d47bd92e0800000000000000
+      internalID: -2117334707142518160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1
+        width: 150
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7accfb444e5b1cd30800000000000000
+      internalID: 4450037898829352103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 219
+        width: 95
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe3137c132265a50800000000000000
+      internalID: 6509427908601265853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 217
+        width: 88
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7c8b16bb3dc9770800000000000000
+      internalID: 8618996588632131546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yarn-ball-sprite-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 204
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703f526199e6de460800000000000000
+      internalID: 7272590577053856519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
