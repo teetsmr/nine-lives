@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 74bb12e9403f268498e98637268a9aa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9101575082533358280
+    second: cavelands_Crystal_TileSet_0
+  - first:
+      213: -5040481505693195658
+    second: cavelands_Crystal_TileSet_1
+  - first:
+      213: -4785886737034294561
+    second: cavelands_Crystal_TileSet_2
+  - first:
+      213: 2733835035797719271
+    second: cavelands_Crystal_TileSet_3
+  - first:
+      213: -5762772337162010131
+    second: cavelands_Crystal_TileSet_4
+  - first:
+      213: 3625837349987494071
+    second: cavelands_Crystal_TileSet_5
+  - first:
+      213: 1771470769326050502
+    second: cavelands_Crystal_TileSet_6
+  - first:
+      213: -7805891979452470053
+    second: cavelands_Crystal_TileSet_7
+  - first:
+      213: 3062077895885691358
+    second: cavelands_Crystal_TileSet_8
+  - first:
+      213: 6356716521576465038
+    second: cavelands_Crystal_TileSet_9
+  - first:
+      213: -4423488940037200007
+    second: cavelands_Crystal_TileSet_10
+  - first:
+      213: -6962853066110136175
+    second: cavelands_Crystal_TileSet_11
+  - first:
+      213: 7628587656466817372
+    second: cavelands_Crystal_TileSet_12
+  - first:
+      213: 7915479768559145584
+    second: cavelands_Crystal_TileSet_13
+  - first:
+      213: 4563043256466966540
+    second: cavelands_Crystal_TileSet_14
+  - first:
+      213: 867864227056871073
+    second: cavelands_Crystal_TileSet_15
+  - first:
+      213: 7111265661732979783
+    second: cavelands_Crystal_TileSet_16
+  - first:
+      213: 1463101678109276691
+    second: cavelands_Crystal_TileSet_17
+  - first:
+      213: -6687513836016426994
+    second: cavelands_Crystal_TileSet_18
+  - first:
+      213: -5194902581370126184
+    second: cavelands_Crystal_TileSet_19
+  - first:
+      213: -6431480098828027592
+    second: cavelands_Crystal_TileSet_20
+  - first:
+      213: -8489585308514875106
+    second: cavelands_Crystal_TileSet_21
+  - first:
+      213: 23554817428272937
+    second: cavelands_Crystal_TileSet_22
+  - first:
+      213: -3975913745082922116
+    second: cavelands_Crystal_TileSet_23
+  - first:
+      213: -8452225824822871888
+    second: cavelands_Crystal_TileSet_24
+  - first:
+      213: -2613718922335330648
+    second: cavelands_Crystal_TileSet_25
+  - first:
+      213: 4393608948504281818
+    second: cavelands_Crystal_TileSet_26
+  - first:
+      213: 7562657077127525639
+    second: cavelands_Crystal_TileSet_27
+  - first:
+      213: 3278023034617277283
+    second: cavelands_Crystal_TileSet_28
+  - first:
+      213: 7075007283892582098
+    second: cavelands_Crystal_TileSet_29
+  - first:
+      213: 4510606786861891239
+    second: cavelands_Crystal_TileSet_30
+  - first:
+      213: -5904119572762874510
+    second: cavelands_Crystal_TileSet_31
+  - first:
+      213: 8586036022253552060
+    second: cavelands_Crystal_TileSet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 224
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca82fab05a4f4e70800000000000000
+      internalID: 9101575082533358280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6722b34b6cc9c0ab0800000000000000
+      internalID: -5040481505693195658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 121
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda41df8e5d159db0800000000000000
+      internalID: -4785886737034294561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 115
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e88d370b7880f520800000000000000
+      internalID: 2733835035797719271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 118
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1c20287158600b0800000000000000
+      internalID: -5762772337162010131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 118
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8295bfbdf815230800000000000000
+      internalID: 3625837349987494071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cccaaf6747859810800000000000000
+      internalID: 1771470769326050502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 113
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc2aa12a96eba390800000000000000
+      internalID: -7805891979452470053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed997da6f9fae7a20800000000000000
+      internalID: 3062077895885691358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e820c6e3ff7973850800000000000000
+      internalID: 6356716521576465038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977a635ee3c9c92c0800000000000000
+      internalID: -4423488940037200007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1901443f60afe5f90800000000000000
+      internalID: -6962853066110136175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5162a93e003ed960800000000000000
+      internalID: 7628587656466817372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 86
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07252c759ee69dd60800000000000000
+      internalID: 7915479768559145584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08847c6aaf235f30800000000000000
+      internalID: 4563043256466966540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 89
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a66ef69ae54b0c00800000000000000
+      internalID: 867864227056871073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 90
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7440707317a40b260800000000000000
+      internalID: 7111265661732979783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 65
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a3bf1793bfd4410800000000000000
+      internalID: 1463101678109276691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 65
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e002bbd199d2133a0800000000000000
+      internalID: -6687513836016426994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8908ca240aff7e7b0800000000000000
+      internalID: -5194902581370126184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8397c51fceaceb6a0800000000000000
+      internalID: -6431480098828027592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e198893442fee2a80800000000000000
+      internalID: -8489585308514875106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 15
+        width: 122
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927bf8d4bfea35000800000000000000
+      internalID: 23554817428272937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b4dbe9387b2d8c0800000000000000
+      internalID: -3975913745082922116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 70
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8bc06e469a3ba80800000000000000
+      internalID: -8452225824822871888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae5c7bfc743abbd0800000000000000
+      internalID: -2613718922335330648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad243917f0c39fc30800000000000000
+      internalID: 4393608948504281818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705b7400b84f3f860800000000000000
+      internalID: 7562657077127525639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b29ef0590ed7d20800000000000000
+      internalID: 3278023034617277283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6f7b3c3a97f2260800000000000000
+      internalID: 7075007283892582098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae7e5479f4e89e30800000000000000
+      internalID: 4510606786861891239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27da90aa78a501ea0800000000000000
+      internalID: -5904119572762874510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Crystal_TileSet_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1812f754ab72770800000000000000
+      internalID: 8586036022253552060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cavelands_Crystal_TileSet_0: 9101575082533358280
+      cavelands_Crystal_TileSet_1: -5040481505693195658
+      cavelands_Crystal_TileSet_10: -4423488940037200007
+      cavelands_Crystal_TileSet_11: -6962853066110136175
+      cavelands_Crystal_TileSet_12: 7628587656466817372
+      cavelands_Crystal_TileSet_13: 7915479768559145584
+      cavelands_Crystal_TileSet_14: 4563043256466966540
+      cavelands_Crystal_TileSet_15: 867864227056871073
+      cavelands_Crystal_TileSet_16: 7111265661732979783
+      cavelands_Crystal_TileSet_17: 1463101678109276691
+      cavelands_Crystal_TileSet_18: -6687513836016426994
+      cavelands_Crystal_TileSet_19: -5194902581370126184
+      cavelands_Crystal_TileSet_2: -4785886737034294561
+      cavelands_Crystal_TileSet_20: -6431480098828027592
+      cavelands_Crystal_TileSet_21: -8489585308514875106
+      cavelands_Crystal_TileSet_22: 23554817428272937
+      cavelands_Crystal_TileSet_23: -3975913745082922116
+      cavelands_Crystal_TileSet_24: -8452225824822871888
+      cavelands_Crystal_TileSet_25: -2613718922335330648
+      cavelands_Crystal_TileSet_26: 4393608948504281818
+      cavelands_Crystal_TileSet_27: 7562657077127525639
+      cavelands_Crystal_TileSet_28: 3278023034617277283
+      cavelands_Crystal_TileSet_29: 7075007283892582098
+      cavelands_Crystal_TileSet_3: 2733835035797719271
+      cavelands_Crystal_TileSet_30: 4510606786861891239
+      cavelands_Crystal_TileSet_31: -5904119572762874510
+      cavelands_Crystal_TileSet_32: 8586036022253552060
+      cavelands_Crystal_TileSet_4: -5762772337162010131
+      cavelands_Crystal_TileSet_5: 3625837349987494071
+      cavelands_Crystal_TileSet_6: 1771470769326050502
+      cavelands_Crystal_TileSet_7: -7805891979452470053
+      cavelands_Crystal_TileSet_8: 3062077895885691358
+      cavelands_Crystal_TileSet_9: 6356716521576465038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

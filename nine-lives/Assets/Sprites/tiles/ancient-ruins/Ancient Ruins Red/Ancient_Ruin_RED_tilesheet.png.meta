@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 7dba26aecf41b85438f0b138bdce79ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8521225671129288683
+    second: Ancient_Ruin_RED_tilesheet_0
+  - first:
+      213: 6840413576535160699
+    second: Ancient_Ruin_RED_tilesheet_1
+  - first:
+      213: 761418387631463894
+    second: Ancient_Ruin_RED_tilesheet_2
+  - first:
+      213: -3835389072063543843
+    second: Ancient_Ruin_RED_tilesheet_3
+  - first:
+      213: 2589491202996287862
+    second: Ancient_Ruin_RED_tilesheet_4
+  - first:
+      213: 2981818681067741205
+    second: Ancient_Ruin_RED_tilesheet_5
+  - first:
+      213: -4733518273143191831
+    second: Ancient_Ruin_RED_tilesheet_6
+  - first:
+      213: 6308680488550991377
+    second: Ancient_Ruin_RED_tilesheet_7
+  - first:
+      213: 4847516300048614067
+    second: Ancient_Ruin_RED_tilesheet_8
+  - first:
+      213: -684752318021081373
+    second: Ancient_Ruin_RED_tilesheet_9
+  - first:
+      213: -8783704435456646343
+    second: Ancient_Ruin_RED_tilesheet_10
+  - first:
+      213: -371344260563935353
+    second: Ancient_Ruin_RED_tilesheet_11
+  - first:
+      213: 7968182766995045751
+    second: Ancient_Ruin_RED_tilesheet_12
+  - first:
+      213: -333262496648018357
+    second: Ancient_Ruin_RED_tilesheet_13
+  - first:
+      213: -2932314606308344877
+    second: Ancient_Ruin_RED_tilesheet_14
+  - first:
+      213: 6804405562745925766
+    second: Ancient_Ruin_RED_tilesheet_15
+  - first:
+      213: -1287111135139717371
+    second: Ancient_Ruin_RED_tilesheet_16
+  - first:
+      213: -2755861449824719158
+    second: Ancient_Ruin_RED_tilesheet_17
+  - first:
+      213: -4956814040173476209
+    second: Ancient_Ruin_RED_tilesheet_18
+  - first:
+      213: -7502323551352511405
+    second: Ancient_Ruin_RED_tilesheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 161
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befc99ab999714670800000000000000
+      internalID: 8521225671129288683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 257
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b773322e7e70eee50800000000000000
+      internalID: 6840413576535160699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 255
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd59384df9119a00800000000000000
+      internalID: 761418387631463894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5cc30b5f5f5cac0800000000000000
+      internalID: -3835389072063543843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 241
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679b7978788bfe320800000000000000
+      internalID: 2589491202996287862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510aaa5ca4c816920800000000000000
+      internalID: 2981818681067741205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6ca77b53a2f4eb0800000000000000
+      internalID: -4733518273143191831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1160581ca7fec8750800000000000000
+      internalID: 6308680488550991377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b240534466d54340800000000000000
+      internalID: 4847516300048614067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e66a3d05654f76f0800000000000000
+      internalID: -684752318021081373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 47
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9336590aa530a1680800000000000000
+      internalID: -8783704435456646343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 47
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fd4bbcc58b8daf0800000000000000
+      internalID: -371344260563935353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 47
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df024620ca49e60800000000000000
+      internalID: 7968182766995045751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 47
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46c5566683006bf0800000000000000
+      internalID: -333262496648018357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db3d41d6635e47d0800000000000000
+      internalID: -2932314606308344877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680b92bdeca1e6e50800000000000000
+      internalID: 6804405562745925766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 18
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f1c83fd33432ee0800000000000000
+      internalID: -1287111135139717371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 18
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace2101dc9631c9d0800000000000000
+      internalID: -2755861449824719158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 18
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f868acd84ebd53bb0800000000000000
+      internalID: -4956814040173476209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruin_RED_tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3542693aa7462e790800000000000000
+      internalID: -7502323551352511405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ancient_Ruin_RED_tilesheet_0: 8521225671129288683
+      Ancient_Ruin_RED_tilesheet_1: 6840413576535160699
+      Ancient_Ruin_RED_tilesheet_10: -8783704435456646343
+      Ancient_Ruin_RED_tilesheet_11: -371344260563935353
+      Ancient_Ruin_RED_tilesheet_12: 7968182766995045751
+      Ancient_Ruin_RED_tilesheet_13: -333262496648018357
+      Ancient_Ruin_RED_tilesheet_14: -2932314606308344877
+      Ancient_Ruin_RED_tilesheet_15: 6804405562745925766
+      Ancient_Ruin_RED_tilesheet_16: -1287111135139717371
+      Ancient_Ruin_RED_tilesheet_17: -2755861449824719158
+      Ancient_Ruin_RED_tilesheet_18: -4956814040173476209
+      Ancient_Ruin_RED_tilesheet_19: -7502323551352511405
+      Ancient_Ruin_RED_tilesheet_2: 761418387631463894
+      Ancient_Ruin_RED_tilesheet_3: -3835389072063543843
+      Ancient_Ruin_RED_tilesheet_4: 2589491202996287862
+      Ancient_Ruin_RED_tilesheet_5: 2981818681067741205
+      Ancient_Ruin_RED_tilesheet_6: -4733518273143191831
+      Ancient_Ruin_RED_tilesheet_7: 6308680488550991377
+      Ancient_Ruin_RED_tilesheet_8: 4847516300048614067
+      Ancient_Ruin_RED_tilesheet_9: -684752318021081373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

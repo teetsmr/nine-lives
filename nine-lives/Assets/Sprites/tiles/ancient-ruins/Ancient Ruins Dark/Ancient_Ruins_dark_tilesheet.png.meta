@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 783d35a5790487543962bbc6b2a9c888
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5687745176824128666
+    second: Ancient_Ruins_dark_tilesheet_0
+  - first:
+      213: 2189285504657766777
+    second: Ancient_Ruins_dark_tilesheet_1
+  - first:
+      213: -5678697589334885606
+    second: Ancient_Ruins_dark_tilesheet_2
+  - first:
+      213: 454436398066507484
+    second: Ancient_Ruins_dark_tilesheet_3
+  - first:
+      213: -9048990010053705027
+    second: Ancient_Ruins_dark_tilesheet_4
+  - first:
+      213: -5524013135346796580
+    second: Ancient_Ruins_dark_tilesheet_5
+  - first:
+      213: -7072191320518976537
+    second: Ancient_Ruins_dark_tilesheet_6
+  - first:
+      213: -792877807536504130
+    second: Ancient_Ruins_dark_tilesheet_7
+  - first:
+      213: 7154260178647544972
+    second: Ancient_Ruins_dark_tilesheet_8
+  - first:
+      213: 3656189480310831973
+    second: Ancient_Ruins_dark_tilesheet_9
+  - first:
+      213: -5892414210610615930
+    second: Ancient_Ruins_dark_tilesheet_10
+  - first:
+      213: -2483826881342048524
+    second: Ancient_Ruins_dark_tilesheet_11
+  - first:
+      213: 6900634303916482498
+    second: Ancient_Ruins_dark_tilesheet_12
+  - first:
+      213: -3506266652805667504
+    second: Ancient_Ruins_dark_tilesheet_13
+  - first:
+      213: 814022032371001366
+    second: Ancient_Ruins_dark_tilesheet_14
+  - first:
+      213: -1819717776203964878
+    second: Ancient_Ruins_dark_tilesheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 161
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a942b857a1eeeee40800000000000000
+      internalID: 5687745176824128666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 257
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979b9013197e16e10800000000000000
+      internalID: 2189285504657766777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 255
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bb3d821a63131b0800000000000000
+      internalID: -5678697589334885606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde13cf0f7b7e4600800000000000000
+      internalID: 454436398066507484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 241
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c0ba87878b6280800000000000000
+      internalID: -9048990010053705027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 97
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7ff052253c653b0800000000000000
+      internalID: -5524013135346796580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb9ddcc6778add90800000000000000
+      internalID: -7072191320518976537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb20f7bb5d12ff4f0800000000000000
+      internalID: -792877807536504130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8472034ab9094360800000000000000
+      internalID: 7154260178647544972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b727506f46db230800000000000000
+      internalID: 3656189480310831973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 47
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689271bae70f93ea0800000000000000
+      internalID: -5892414210610615930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f67a0e7c9ca78dd0800000000000000
+      internalID: -2483826881342048524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 18
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf11d9965af3cf50800000000000000
+      internalID: 6900634303916482498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 18
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05568b76e0d375fc0800000000000000
+      internalID: -3506266652805667504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 18
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618a0deb9bcfb4b00800000000000000
+      internalID: 814022032371001366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Ruins_dark_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e16e5e2501fb6e0800000000000000
+      internalID: -1819717776203964878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ancient_Ruins_dark_tilesheet_0: 5687745176824128666
+      Ancient_Ruins_dark_tilesheet_1: 2189285504657766777
+      Ancient_Ruins_dark_tilesheet_10: -5892414210610615930
+      Ancient_Ruins_dark_tilesheet_11: -2483826881342048524
+      Ancient_Ruins_dark_tilesheet_12: 6900634303916482498
+      Ancient_Ruins_dark_tilesheet_13: -3506266652805667504
+      Ancient_Ruins_dark_tilesheet_14: 814022032371001366
+      Ancient_Ruins_dark_tilesheet_15: -1819717776203964878
+      Ancient_Ruins_dark_tilesheet_2: -5678697589334885606
+      Ancient_Ruins_dark_tilesheet_3: 454436398066507484
+      Ancient_Ruins_dark_tilesheet_4: -9048990010053705027
+      Ancient_Ruins_dark_tilesheet_5: -5524013135346796580
+      Ancient_Ruins_dark_tilesheet_6: -7072191320518976537
+      Ancient_Ruins_dark_tilesheet_7: -792877807536504130
+      Ancient_Ruins_dark_tilesheet_8: 7154260178647544972
+      Ancient_Ruins_dark_tilesheet_9: 3656189480310831973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

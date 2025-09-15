@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 6ec1d61b40193ef4db7603727971365a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3265122390935745062
+    second: cavelands_Mushroom_Tileset_0
+  - first:
+      213: -813588236764851104
+    second: cavelands_Mushroom_Tileset_1
+  - first:
+      213: -5477584870549783416
+    second: cavelands_Mushroom_Tileset_2
+  - first:
+      213: -8905284851205202293
+    second: cavelands_Mushroom_Tileset_3
+  - first:
+      213: 1615831497905434751
+    second: cavelands_Mushroom_Tileset_4
+  - first:
+      213: 2667751353637209259
+    second: cavelands_Mushroom_Tileset_5
+  - first:
+      213: -2217883910850284797
+    second: cavelands_Mushroom_Tileset_6
+  - first:
+      213: -1648875462697136950
+    second: cavelands_Mushroom_Tileset_7
+  - first:
+      213: 3994723628312325597
+    second: cavelands_Mushroom_Tileset_8
+  - first:
+      213: -1217260919680478376
+    second: cavelands_Mushroom_Tileset_9
+  - first:
+      213: 5594570145567915632
+    second: cavelands_Mushroom_Tileset_10
+  - first:
+      213: 1928801481990590092
+    second: cavelands_Mushroom_Tileset_11
+  - first:
+      213: 6892642293680972113
+    second: cavelands_Mushroom_Tileset_12
+  - first:
+      213: 2165874047997718615
+    second: cavelands_Mushroom_Tileset_13
+  - first:
+      213: 5365658269986739376
+    second: cavelands_Mushroom_Tileset_14
+  - first:
+      213: 3112379643467089646
+    second: cavelands_Mushroom_Tileset_15
+  - first:
+      213: 726638901829874082
+    second: cavelands_Mushroom_Tileset_16
+  - first:
+      213: -7911757531903502070
+    second: cavelands_Mushroom_Tileset_17
+  - first:
+      213: 3215229867650666232
+    second: cavelands_Mushroom_Tileset_18
+  - first:
+      213: 7600004385569839803
+    second: cavelands_Mushroom_Tileset_19
+  - first:
+      213: 1902648153736716956
+    second: cavelands_Mushroom_Tileset_20
+  - first:
+      213: 5099765447134526687
+    second: cavelands_Mushroom_Tileset_21
+  - first:
+      213: -8069952795758274268
+    second: cavelands_Mushroom_Tileset_22
+  - first:
+      213: 7183012384667221074
+    second: cavelands_Mushroom_Tileset_23
+  - first:
+      213: -5609783915099691013
+    second: cavelands_Mushroom_Tileset_24
+  - first:
+      213: -6764051860109889489
+    second: cavelands_Mushroom_Tileset_25
+  - first:
+      213: 792182380003266126
+    second: cavelands_Mushroom_Tileset_26
+  - first:
+      213: 3419741117705005772
+    second: cavelands_Mushroom_Tileset_27
+  - first:
+      213: -6487964401143213544
+    second: cavelands_Mushroom_Tileset_28
+  - first:
+      213: -8555419985896593000
+    second: cavelands_Mushroom_Tileset_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62236e3e38b005d20800000000000000
+      internalID: 3265122390935745062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064d13a2fcd85b4f0800000000000000
+      internalID: -813588236764851104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c73dbe495bbf3b0800000000000000
+      internalID: -5477584870549783416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e1f3c2c921a6480800000000000000
+      internalID: -8905284851205202293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 103
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f707a81bf269c6610800000000000000
+      internalID: 1615831497905434751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 49
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba40d96c8b1c50520800000000000000
+      internalID: 2667751353637209259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 97
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303f6bc755e7831e0800000000000000
+      internalID: -2217883910850284797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc4417b0840e19e0800000000000000
+      internalID: -1648875462697136950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd6a6999fb107730800000000000000
+      internalID: 3994723628312325597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853da7394ab6b1fe0800000000000000
+      internalID: -1217260919680478376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eb495f7e7e3ad40800000000000000
+      internalID: 5594570145567915632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ecb488aba74ca10800000000000000
+      internalID: 1928801481990590092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15120b6b5a597af50800000000000000
+      internalID: 6892642293680972113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750342ba8fabe0e10800000000000000
+      internalID: 2165874047997718615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 81
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b452b0a4c5a67a40800000000000000
+      internalID: 5365658269986739376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 47
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6430fabc4613b20800000000000000
+      internalID: 3112379643467089646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1bc873b3a851a00800000000000000
+      internalID: 726638901829874082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09ded9617ac33290800000000000000
+      internalID: -7911757531903502070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe4b84978ace9c20800000000000000
+      internalID: 3215229867650666232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba1d4dd8b3a87960800000000000000
+      internalID: 7600004385569839803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 55
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92a7084a60976a10800000000000000
+      internalID: 1902648153736716956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcb34a87a106c640800000000000000
+      internalID: 5099765447134526687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42958ae40b4c10090800000000000000
+      internalID: -8069952795758274268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c3255e4bf2fa360800000000000000
+      internalID: 7183012384667221074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf768c9404b0622b0800000000000000
+      internalID: -5609783915099691013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2074d3bba24122a0800000000000000
+      internalID: -6764051860109889489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 113
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e0b6d6da56efa00800000000000000
+      internalID: 792182380003266126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaaa909d6c557f20800000000000000
+      internalID: 3419741117705005772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8129a7a70ce16f5a0800000000000000
+      internalID: -6487964401143213544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavelands_Mushroom_Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992b54f9da054980800000000000000
+      internalID: -8555419985896593000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cavelands_Mushroom_Tileset_0: 3265122390935745062
+      cavelands_Mushroom_Tileset_1: -813588236764851104
+      cavelands_Mushroom_Tileset_10: 5594570145567915632
+      cavelands_Mushroom_Tileset_11: 1928801481990590092
+      cavelands_Mushroom_Tileset_12: 6892642293680972113
+      cavelands_Mushroom_Tileset_13: 2165874047997718615
+      cavelands_Mushroom_Tileset_14: 5365658269986739376
+      cavelands_Mushroom_Tileset_15: 3112379643467089646
+      cavelands_Mushroom_Tileset_16: 726638901829874082
+      cavelands_Mushroom_Tileset_17: -7911757531903502070
+      cavelands_Mushroom_Tileset_18: 3215229867650666232
+      cavelands_Mushroom_Tileset_19: 7600004385569839803
+      cavelands_Mushroom_Tileset_2: -5477584870549783416
+      cavelands_Mushroom_Tileset_20: 1902648153736716956
+      cavelands_Mushroom_Tileset_21: 5099765447134526687
+      cavelands_Mushroom_Tileset_22: -8069952795758274268
+      cavelands_Mushroom_Tileset_23: 7183012384667221074
+      cavelands_Mushroom_Tileset_24: -5609783915099691013
+      cavelands_Mushroom_Tileset_25: -6764051860109889489
+      cavelands_Mushroom_Tileset_26: 792182380003266126
+      cavelands_Mushroom_Tileset_27: 3419741117705005772
+      cavelands_Mushroom_Tileset_28: -6487964401143213544
+      cavelands_Mushroom_Tileset_29: -8555419985896593000
+      cavelands_Mushroom_Tileset_3: -8905284851205202293
+      cavelands_Mushroom_Tileset_4: 1615831497905434751
+      cavelands_Mushroom_Tileset_5: 2667751353637209259
+      cavelands_Mushroom_Tileset_6: -2217883910850284797
+      cavelands_Mushroom_Tileset_7: -1648875462697136950
+      cavelands_Mushroom_Tileset_8: 3994723628312325597
+      cavelands_Mushroom_Tileset_9: -1217260919680478376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
