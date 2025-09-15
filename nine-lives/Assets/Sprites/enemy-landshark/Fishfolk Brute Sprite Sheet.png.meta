@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: 108b9cc05ff4a5444959ef1924a0e511
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 493034621267407786
+    second: Fishfolk Brute Sprite Sheet_0
+  - first:
+      213: -4777956605907008400
+    second: Fishfolk Brute Sprite Sheet_1
+  - first:
+      213: -2418325785655387643
+    second: Fishfolk Brute Sprite Sheet_2
+  - first:
+      213: 7828101213648506651
+    second: Fishfolk Brute Sprite Sheet_3
+  - first:
+      213: -3289248030815721057
+    second: Fishfolk Brute Sprite Sheet_4
+  - first:
+      213: 5425990054220168568
+    second: Fishfolk Brute Sprite Sheet_5
+  - first:
+      213: -9001614314969367172
+    second: Fishfolk Brute Sprite Sheet_6
+  - first:
+      213: -8289461714560972591
+    second: Fishfolk Brute Sprite Sheet_7
+  - first:
+      213: 7796562366467967305
+    second: Fishfolk Brute Sprite Sheet_8
+  - first:
+      213: 8362658251281025427
+    second: Fishfolk Brute Sprite Sheet_9
+  - first:
+      213: -7623845978053785357
+    second: Fishfolk Brute Sprite Sheet_10
+  - first:
+      213: 8727093169789472704
+    second: Fishfolk Brute Sprite Sheet_11
+  - first:
+      213: -1559808347602936094
+    second: Fishfolk Brute Sprite Sheet_12
+  - first:
+      213: -470466058860252534
+    second: Fishfolk Brute Sprite Sheet_13
+  - first:
+      213: 5796538853333478401
+    second: Fishfolk Brute Sprite Sheet_14
+  - first:
+      213: -3473521342829424487
+    second: Fishfolk Brute Sprite Sheet_15
+  - first:
+      213: -4155496601172907926
+    second: Fishfolk Brute Sprite Sheet_16
+  - first:
+      213: -7668666186309495695
+    second: Fishfolk Brute Sprite Sheet_17
+  - first:
+      213: -2615783629457184177
+    second: Fishfolk Brute Sprite Sheet_18
+  - first:
+      213: 4901340335207261510
+    second: Fishfolk Brute Sprite Sheet_19
+  - first:
+      213: -7971104859187271868
+    second: Fishfolk Brute Sprite Sheet_20
+  - first:
+      213: 6795838655437274029
+    second: Fishfolk Brute Sprite Sheet_21
+  - first:
+      213: 1022725679030079277
+    second: Fishfolk Brute Sprite Sheet_22
+  - first:
+      213: 3369345825400511366
+    second: Fishfolk Brute Sprite Sheet_23
+  - first:
+      213: 75005018752810506
+    second: Fishfolk Brute Sprite Sheet_24
+  - first:
+      213: 5710347011799504382
+    second: Fishfolk Brute Sprite Sheet_25
+  - first:
+      213: -3868099443554672955
+    second: Fishfolk Brute Sprite Sheet_26
+  - first:
+      213: 8096844449278277710
+    second: Fishfolk Brute Sprite Sheet_27
+  - first:
+      213: 3756792182706057781
+    second: Fishfolk Brute Sprite Sheet_28
+  - first:
+      213: 4276420680895592964
+    second: Fishfolk Brute Sprite Sheet_29
+  - first:
+      213: 3145988967086488131
+    second: Fishfolk Brute Sprite Sheet_30
+  - first:
+      213: 434587996396850550
+    second: Fishfolk Brute Sprite Sheet_31
+  - first:
+      213: -4968298306444836116
+    second: Fishfolk Brute Sprite Sheet_32
+  - first:
+      213: -8788276143486910310
+    second: Fishfolk Brute Sprite Sheet_33
+  - first:
+      213: 958595825305068164
+    second: Fishfolk Brute Sprite Sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 319
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3fc96306c97d600800000000000000
+      internalID: 493034621267407786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0748ea818c941bdb0800000000000000
+      internalID: -4777956605907008400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 319
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ad7d2c281607ed0800000000000000
+      internalID: -2418325785655387643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc259249003ac60800000000000000
+      internalID: 7828101213648506651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f996319d75e3a52d0800000000000000
+      internalID: -3289248030815721057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 255
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d7898c43dfc4b40800000000000000
+      internalID: 5425990054220168568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 255
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dfd2f1977d31380800000000000000
+      internalID: -9001614314969367172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d884647d7ae5fc80800000000000000
+      internalID: -8289461714560972591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94980821a24f23c60800000000000000
+      internalID: 7796562366467967305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399489d4f512e0470800000000000000
+      internalID: 8362658251281025427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 194
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f840dfc978a23690800000000000000
+      internalID: -7623845978053785357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 195
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf0a03fffcdc1970800000000000000
+      internalID: 8727093169789472704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 194
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee107372927a5ae0800000000000000
+      internalID: -1559808347602936094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 191
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82b1c2bc919879f0800000000000000
+      internalID: -470466058860252534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 193
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c21bf2061717050800000000000000
+      internalID: 5796538853333478401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 195
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9901ae00eb29bcfc0800000000000000
+      internalID: -3473521342829424487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 193
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68eeb5abd5b456c0800000000000000
+      internalID: -4155496601172907926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17419ffdbbc639590800000000000000
+      internalID: -7668666186309495695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 127
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a2ce4e5aed2bbd0800000000000000
+      internalID: -2615783629457184177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645a253011f050440800000000000000
+      internalID: 4901340335207261510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 127
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447a0c00d52f06190800000000000000
+      internalID: -7971104859187271868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 127
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabf430504baf4e50800000000000000
+      internalID: 6795838655437274029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 127
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f02412693713e00800000000000000
+      internalID: 1022725679030079277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 127
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b51783d2252ce20800000000000000
+      internalID: 3369345825400511366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 127
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ef12bcaa87a0100800000000000000
+      internalID: 75005018752810506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5d58e3a5a3f3f40800000000000000
+      internalID: 5710347011799504382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce9907dc00c15ac0800000000000000
+      internalID: -3868099443554672955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4833d0b025cd5070800000000000000
+      internalID: 8096844449278277710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b829f59ec22430800000000000000
+      internalID: 3756792182706057781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a7aeaa3f5e85b30800000000000000
+      internalID: 4276420680895592964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34afc722c4cc8ab20800000000000000
+      internalID: 3145988967086488131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d02ecea77f70600800000000000000
+      internalID: 434587996396850550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce24e22730f0d0bb0800000000000000
+      internalID: -4968298306444836116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a904c67e865c90680800000000000000
+      internalID: -8788276143486910310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Brute Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4822b7203dd9d4d00800000000000000
+      internalID: 958595825305068164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

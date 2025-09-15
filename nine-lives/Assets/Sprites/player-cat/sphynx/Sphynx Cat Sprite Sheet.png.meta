@@ -1,0 +1,1805 @@
+fileFormatVersion: 2
+guid: dcb9458a79d55a14b9c95f26419fa5d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3864211966224020111
+    second: Sphynx Cat Sprite Sheet_0
+  - first:
+      213: -4376228652145280451
+    second: Sphynx Cat Sprite Sheet_1
+  - first:
+      213: 6713302031292545070
+    second: Sphynx Cat Sprite Sheet_2
+  - first:
+      213: 4080400623400318728
+    second: Sphynx Cat Sprite Sheet_3
+  - first:
+      213: 4799835973158878885
+    second: Sphynx Cat Sprite Sheet_4
+  - first:
+      213: 7073555662853056037
+    second: Sphynx Cat Sprite Sheet_5
+  - first:
+      213: -1633177326499970563
+    second: Sphynx Cat Sprite Sheet_6
+  - first:
+      213: 6853343305481483329
+    second: Sphynx Cat Sprite Sheet_7
+  - first:
+      213: -3871507101493177749
+    second: Sphynx Cat Sprite Sheet_8
+  - first:
+      213: 2514311791904700460
+    second: Sphynx Cat Sprite Sheet_9
+  - first:
+      213: -3482020443170154085
+    second: Sphynx Cat Sprite Sheet_10
+  - first:
+      213: 4526478533385216672
+    second: Sphynx Cat Sprite Sheet_11
+  - first:
+      213: -1313325409802815460
+    second: Sphynx Cat Sprite Sheet_12
+  - first:
+      213: 6809523543851152789
+    second: Sphynx Cat Sprite Sheet_13
+  - first:
+      213: -7027165350714955866
+    second: Sphynx Cat Sprite Sheet_14
+  - first:
+      213: -8866276511415652345
+    second: Sphynx Cat Sprite Sheet_15
+  - first:
+      213: -7948625533759383779
+    second: Sphynx Cat Sprite Sheet_16
+  - first:
+      213: -6469568980580322392
+    second: Sphynx Cat Sprite Sheet_17
+  - first:
+      213: 1939874181890594972
+    second: Sphynx Cat Sprite Sheet_18
+  - first:
+      213: 6494767822050815245
+    second: Sphynx Cat Sprite Sheet_19
+  - first:
+      213: 4510967346874174387
+    second: Sphynx Cat Sprite Sheet_20
+  - first:
+      213: 993881981085256359
+    second: Sphynx Cat Sprite Sheet_21
+  - first:
+      213: 5841410119450266766
+    second: Sphynx Cat Sprite Sheet_22
+  - first:
+      213: 1488538020112723352
+    second: Sphynx Cat Sprite Sheet_23
+  - first:
+      213: 5479650018289393955
+    second: Sphynx Cat Sprite Sheet_24
+  - first:
+      213: 330274471117776097
+    second: Sphynx Cat Sprite Sheet_25
+  - first:
+      213: 6822522600362732191
+    second: Sphynx Cat Sprite Sheet_26
+  - first:
+      213: -4246661091178921009
+    second: Sphynx Cat Sprite Sheet_27
+  - first:
+      213: -448970509346445422
+    second: Sphynx Cat Sprite Sheet_28
+  - first:
+      213: -4644612147762890063
+    second: Sphynx Cat Sprite Sheet_29
+  - first:
+      213: 8298436976798992017
+    second: Sphynx Cat Sprite Sheet_30
+  - first:
+      213: -4991320344453781192
+    second: Sphynx Cat Sprite Sheet_31
+  - first:
+      213: 6233999208278823396
+    second: Sphynx Cat Sprite Sheet_32
+  - first:
+      213: 8256372503076048272
+    second: Sphynx Cat Sprite Sheet_33
+  - first:
+      213: -8512929956127946005
+    second: Sphynx Cat Sprite Sheet_34
+  - first:
+      213: 206322019936273495
+    second: Sphynx Cat Sprite Sheet_35
+  - first:
+      213: -6262496039164314330
+    second: Sphynx Cat Sprite Sheet_36
+  - first:
+      213: 3211226800642373375
+    second: Sphynx Cat Sprite Sheet_37
+  - first:
+      213: -2353105272310067033
+    second: Sphynx Cat Sprite Sheet_38
+  - first:
+      213: 7572186797435410177
+    second: Sphynx Cat Sprite Sheet_39
+  - first:
+      213: 8882225164483865815
+    second: Sphynx Cat Sprite Sheet_40
+  - first:
+      213: 4774939740265835442
+    second: Sphynx Cat Sprite Sheet_41
+  - first:
+      213: -7372654934926947095
+    second: Sphynx Cat Sprite Sheet_42
+  - first:
+      213: -1441424698269908439
+    second: Sphynx Cat Sprite Sheet_43
+  - first:
+      213: 1922583532332859211
+    second: Sphynx Cat Sprite Sheet_44
+  - first:
+      213: -6290467296289121
+    second: Sphynx Cat Sprite Sheet_45
+  - first:
+      213: 7633949179441098265
+    second: Sphynx Cat Sprite Sheet_46
+  - first:
+      213: 1757366171539952441
+    second: Sphynx Cat Sprite Sheet_47
+  - first:
+      213: 5876339813292351199
+    second: Sphynx Cat Sprite Sheet_48
+  - first:
+      213: -3957588735082785615
+    second: Sphynx Cat Sprite Sheet_49
+  - first:
+      213: -578304202611449105
+    second: Sphynx Cat Sprite Sheet_50
+  - first:
+      213: 7909296647540710006
+    second: Sphynx Cat Sprite Sheet_51
+  - first:
+      213: 6462489791355214871
+    second: Sphynx Cat Sprite Sheet_52
+  - first:
+      213: -8839520539180214962
+    second: Sphynx Cat Sprite Sheet_53
+  - first:
+      213: -4549395629665625996
+    second: Sphynx Cat Sprite Sheet_54
+  - first:
+      213: 3091093533388465507
+    second: Sphynx Cat Sprite Sheet_55
+  - first:
+      213: -8702580487009002212
+    second: Sphynx Cat Sprite Sheet_56
+  - first:
+      213: 6471826240841660985
+    second: Sphynx Cat Sprite Sheet_57
+  - first:
+      213: 4214142301319558918
+    second: Sphynx Cat Sprite Sheet_58
+  - first:
+      213: 4964703938388884069
+    second: Sphynx Cat Sprite Sheet_59
+  - first:
+      213: 7699032798210289040
+    second: Sphynx Cat Sprite Sheet_60
+  - first:
+      213: -7454084302260561539
+    second: Sphynx Cat Sprite Sheet_61
+  - first:
+      213: 4132061070939756759
+    second: Sphynx Cat Sprite Sheet_62
+  - first:
+      213: 3766013331499305651
+    second: Sphynx Cat Sprite Sheet_63
+  - first:
+      213: 1462426893332105113
+    second: Sphynx Cat Sprite Sheet_64
+  - first:
+      213: -7236404346821509592
+    second: Sphynx Cat Sprite Sheet_65
+  - first:
+      213: 3271349492987614849
+    second: Sphynx Cat Sprite Sheet_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 255
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b89f4f4070a530800000000000000
+      internalID: 3864211966224020111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 255
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a7ef42a338443c0800000000000000
+      internalID: -4376228652145280451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 255
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28b91df0a07a2d50800000000000000
+      internalID: 6713302031292545070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 255
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807fe038fbe70a830800000000000000
+      internalID: 4080400623400318728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 255
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeb64013617c9240800000000000000
+      internalID: 4799835973158878885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 255
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5262f47e5615a2260800000000000000
+      internalID: 7073555662853056037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 255
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df14fbedfd9c559e0800000000000000
+      internalID: -1633177326499970563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 255
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144760ffc67fb1f50800000000000000
+      internalID: 6853343305481483329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62d816adc4a54ac0800000000000000
+      internalID: -3871507101493177749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c283e0bd041a4e220800000000000000
+      internalID: 2514311791904700460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 223
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99d1300bd06dafc0800000000000000
+      internalID: -3482020443170154085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 223
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a26bd96e3841de30800000000000000
+      internalID: 4526478533385216672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 223
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1875328f7126cde0800000000000000
+      internalID: -1313325409802815460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 223
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59538e0b599408e50800000000000000
+      internalID: 6809523543851152789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 223
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7a3b4585e7a7e90800000000000000
+      internalID: -7027165350714955866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 223
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003ea80d78a4f480800000000000000
+      internalID: -8866276511415652345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d171cafc03fc0b190800000000000000
+      internalID: -7948625533759383779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 191
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3bf961a497736a0800000000000000
+      internalID: -6469568980580322392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 191
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c985a806a41dbea10800000000000000
+      internalID: 1939874181890594972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de9f36cec022a50800000000000000
+      internalID: 6494767822050815245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 191
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb42dfd6ec2a9e30800000000000000
+      internalID: 4510967346874174387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 191
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa8f3f556afacd00800000000000000
+      internalID: 993881981085256359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c8435fd8bd01150800000000000000
+      internalID: 5841410119450266766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 191
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d6b73517958a410800000000000000
+      internalID: 1488538020112723352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3212a91c8a0ab0c40800000000000000
+      internalID: 5479650018289393955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 159
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4ea51b1ee559400800000000000000
+      internalID: 330274471117776097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 159
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae1b268287eae50800000000000000
+      internalID: 6822522600362732191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 159
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3cec2cc34d015c0800000000000000
+      internalID: -4246661091178921009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 159
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29767c353bfe4c9f0800000000000000
+      internalID: -448970509346445422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 159
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baf02d1cd50b8fb0800000000000000
+      internalID: -4644612147762890063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 127
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1960211a678f92370800000000000000
+      internalID: 8298436976798992017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 127
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839e6a487944bbab0800000000000000
+      internalID: -4991320344453781192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 127
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e19683304d938650800000000000000
+      internalID: 6233999208278823396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d86232c07849270800000000000000
+      internalID: 8256372503076048272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 127
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea463fee4ffbd980800000000000000
+      internalID: -8512929956127946005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 127
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75484a3b8c00dd200800000000000000
+      internalID: 206322019936273495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 95
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62df15258052719a0800000000000000
+      internalID: -6262496039164314330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 98
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6b089e2c1909c20800000000000000
+      internalID: 3211226800642373375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 101
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a01cdcd837185fd0800000000000000
+      internalID: -2353105272310067033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1075a0ae5cfc51960800000000000000
+      internalID: 7572186797435410177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 95
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dca8102ab0044b70800000000000000
+      internalID: 8882225164483865815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 98
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbe072256ef34240800000000000000
+      internalID: 4774939740265835442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 100
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec062016611fa990800000000000000
+      internalID: -7372654934926947095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 98
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922c529bfd70ffbe0800000000000000
+      internalID: -1441424698269908439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f37bf49836eaa10800000000000000
+      internalID: 1922583532332859211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e55537ad6a9eff0800000000000000
+      internalID: -6290467296289121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ea8f1155c31f960800000000000000
+      internalID: 7633949179441098265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 63
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9335dead83b636810800000000000000
+      internalID: 1757366171539952441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde96ce0de3fc8150800000000000000
+      internalID: 5876339813292351199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 63
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b49d4e7302d319c0800000000000000
+      internalID: -3957588735082785615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 63
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2aa37446379f7f0800000000000000
+      internalID: -578304202611449105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 63
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a1adb456773cd60800000000000000
+      internalID: 7909296647540710006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 31
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cd05ab9306fa950800000000000000
+      internalID: 6462489791355214871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 31
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45d46547e6b35580800000000000000
+      internalID: -8839520539180214962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 31
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478d01f47cc4dd0c0800000000000000
+      internalID: -4549395629665625996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656029f035c5ea20800000000000000
+      internalID: 3091093533388465507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 31
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d1592c7293a3780800000000000000
+      internalID: -8702580487009002212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 31
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a3b654dab80d950800000000000000
+      internalID: 6471826240841660985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 31
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60779177814ab7a30800000000000000
+      internalID: 4214142301319558918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 31
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af6a68deb26e440800000000000000
+      internalID: 4964703938388884069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09de76be98578da60800000000000000
+      internalID: 7699032798210289040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7991fd02d5cd8890800000000000000
+      internalID: -7454084302260561539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d89593c6a7085930800000000000000
+      internalID: 4132061070939756759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bac66bfb21934430800000000000000
+      internalID: 3766013331499305651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997c90fd2859b4410800000000000000
+      internalID: 1462426893332105113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e7c903690239b90800000000000000
+      internalID: -7236404346821509592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sphynx Cat Sprite Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1865ea1180b266d20800000000000000
+      internalID: 3271349492987614849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

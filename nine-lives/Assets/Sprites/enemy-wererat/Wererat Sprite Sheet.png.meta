@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: ba784ee743130654ba713c2c4d265a76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1593188145423813349
+    second: Wererat Sprite Sheet_0
+  - first:
+      213: 3135528804019283487
+    second: Wererat Sprite Sheet_1
+  - first:
+      213: -2568213848822508058
+    second: Wererat Sprite Sheet_2
+  - first:
+      213: 1654972487921297664
+    second: Wererat Sprite Sheet_3
+  - first:
+      213: -788544414847762918
+    second: Wererat Sprite Sheet_4
+  - first:
+      213: -5773245813610606820
+    second: Wererat Sprite Sheet_5
+  - first:
+      213: -6059116549742399064
+    second: Wererat Sprite Sheet_6
+  - first:
+      213: 8155455807538467956
+    second: Wererat Sprite Sheet_7
+  - first:
+      213: 5727434562254848145
+    second: Wererat Sprite Sheet_8
+  - first:
+      213: -8040134416840367777
+    second: Wererat Sprite Sheet_9
+  - first:
+      213: 215043878587155980
+    second: Wererat Sprite Sheet_10
+  - first:
+      213: -51539773003672377
+    second: Wererat Sprite Sheet_11
+  - first:
+      213: -9201194454588483447
+    second: Wererat Sprite Sheet_12
+  - first:
+      213: -1675639360261895552
+    second: Wererat Sprite Sheet_13
+  - first:
+      213: -3099812904162064680
+    second: Wererat Sprite Sheet_14
+  - first:
+      213: -7956702293674800420
+    second: Wererat Sprite Sheet_15
+  - first:
+      213: 4594840472995399175
+    second: Wererat Sprite Sheet_16
+  - first:
+      213: 4487162587597074341
+    second: Wererat Sprite Sheet_17
+  - first:
+      213: -8792130576807568047
+    second: Wererat Sprite Sheet_18
+  - first:
+      213: 2104841082104724871
+    second: Wererat Sprite Sheet_19
+  - first:
+      213: 6388042028521764365
+    second: Wererat Sprite Sheet_20
+  - first:
+      213: 6238192174712604312
+    second: Wererat Sprite Sheet_21
+  - first:
+      213: 6545482239949906191
+    second: Wererat Sprite Sheet_22
+  - first:
+      213: 8159191590399883125
+    second: Wererat Sprite Sheet_23
+  - first:
+      213: -5905074140123584606
+    second: Wererat Sprite Sheet_24
+  - first:
+      213: -9103980122808058525
+    second: Wererat Sprite Sheet_25
+  - first:
+      213: -8210226465131911503
+    second: Wererat Sprite Sheet_26
+  - first:
+      213: -1554558190624194012
+    second: Wererat Sprite Sheet_27
+  - first:
+      213: -597231808894443294
+    second: Wererat Sprite Sheet_28
+  - first:
+      213: 6916384109589578902
+    second: Wererat Sprite Sheet_29
+  - first:
+      213: -3124849027118305493
+    second: Wererat Sprite Sheet_30
+  - first:
+      213: -3682786962763931303
+    second: Wererat Sprite Sheet_31
+  - first:
+      213: -2034078982404457331
+    second: Wererat Sprite Sheet_32
+  - first:
+      213: 3010876379820614766
+    second: Wererat Sprite Sheet_33
+  - first:
+      213: -2935781181358310417
+    second: Wererat Sprite Sheet_34
+  - first:
+      213: 8697512402514845358
+    second: Wererat Sprite Sheet_35
+  - first:
+      213: -1752790084143523421
+    second: Wererat Sprite Sheet_36
+  - first:
+      213: 25160512887089426
+    second: Wererat Sprite Sheet_37
+  - first:
+      213: 3348384123436643838
+    second: Wererat Sprite Sheet_38
+  - first:
+      213: -5017138623901866296
+    second: Wererat Sprite Sheet_39
+  - first:
+      213: 984667968936879361
+    second: Wererat Sprite Sheet_40
+  - first:
+      213: 7815852060797951203
+    second: Wererat Sprite Sheet_41
+  - first:
+      213: -2835269804743623642
+    second: Wererat Sprite Sheet_42
+  - first:
+      213: 3748625031197388012
+    second: Wererat Sprite Sheet_43
+  - first:
+      213: 1748189259397139049
+    second: Wererat Sprite Sheet_44
+  - first:
+      213: -3619817072048928540
+    second: Wererat Sprite Sheet_45
+  - first:
+      213: 8966895261027405467
+    second: Wererat Sprite Sheet_46
+  - first:
+      213: 1242616798035256586
+    second: Wererat Sprite Sheet_47
+  - first:
+      213: 4983983710620341030
+    second: Wererat Sprite Sheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 319
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1576a3a2dbd3e9e0800000000000000
+      internalID: -1593188145423813349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 319
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f162392a5d2a38b20800000000000000
+      internalID: 3135528804019283487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 319
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e512b98c1fdb5cd0800000000000000
+      internalID: -2568213848822508058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 319
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009e79795b4a7f610800000000000000
+      internalID: 1654972487921297664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 319
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e716758078e05f0800000000000000
+      internalID: -788544414847762918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 319
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f8abe358f41efa0800000000000000
+      internalID: -5773245813610606820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 319
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1f9efb991b9eba0800000000000000
+      internalID: -6059116549742399064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 319
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4741ab5f8dffd2170800000000000000
+      internalID: 8155455807538467956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 255
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190ce7d936feb7f40800000000000000
+      internalID: 5727434562254848145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 255
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5166d9a854bb6090800000000000000
+      internalID: -8040134416840367777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 255
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c064f4aa44dfbf200800000000000000
+      internalID: 215043878587155980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 260
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4df4a79d4e84ff0800000000000000
+      internalID: -51539773003672377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 257
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98895f0c46ace4080800000000000000
+      internalID: -9201194454588483447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 255
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a4de731eeeeb8e0800000000000000
+      internalID: -1675639360261895552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 255
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d68f3156904bf4d0800000000000000
+      internalID: -3099812904162064680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 255
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda4af99b6d149190800000000000000
+      internalID: -7956702293674800420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 191
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7068a70d01724cf30800000000000000
+      internalID: 4594840472995399175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 191
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af6523799a954e30800000000000000
+      internalID: 4487162587597074341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 191
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dd886b2d31cf580800000000000000
+      internalID: -8792130576807568047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 191
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d308fefc5e53d10800000000000000
+      internalID: 2104841082104724871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 191
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d063e403162e6a850800000000000000
+      internalID: 6388042028521764365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 191
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896cd564bb2829650800000000000000
+      internalID: 6238192174712604312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 191
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01a7d3fa6936da50800000000000000
+      internalID: 6545482239949906191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 191
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577b320b5854b3170800000000000000
+      internalID: 8159191590399883125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 127
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7a6912b56fc0ea0800000000000000
+      internalID: -5905074140123584606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 127
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dfec1305a28a180800000000000000
+      internalID: -9103980122808058525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 127
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b62d44978a6f0e80800000000000000
+      internalID: -8210226465131911503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 127
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422cb21ef891d6ae0800000000000000
+      internalID: -1554558190624194012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 63
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0684685d436b7f0800000000000000
+      internalID: -597231808894443294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 63
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6944e3ef3beebff50800000000000000
+      internalID: 6916384109589578902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 63
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f63e1bd5e42a4d0800000000000000
+      internalID: -3124849027118305493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 63
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951240505cc14ecc0800000000000000
+      internalID: -3682786962763931303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 63
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cb1b841ff75c3e0800000000000000
+      internalID: -2034078982404457331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 63
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6462d97d18c8c920800000000000000
+      internalID: 3010876379820614766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 63
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb7cdae1920247d0800000000000000
+      internalID: -2935781181358310417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 63
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae937dd275c3b870800000000000000
+      internalID: 8697512402514845358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a95cc484b6dca7e0800000000000000
+      internalID: -1752790084143523421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21960096a53695000800000000000000
+      internalID: 25160512887089426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5bff8ae99d77e20800000000000000
+      internalID: 3348384123436643838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6ef65e00b8f5ab0800000000000000
+      internalID: -5017138623901866296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105203efc4e3aad00800000000000000
+      internalID: 984667968936879361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecddd40a0c777c60800000000000000
+      internalID: 7815852060797951203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c7ddd622917a8d0800000000000000
+      internalID: -2835269804743623642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec68a4da9ac50430800000000000000
+      internalID: 3748625031197388012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a058e7ed0d24810800000000000000
+      internalID: 1748189259397139049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e801a43d83d3cdc0800000000000000
+      internalID: -3619817072048928540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e0ca33bbfc07c70800000000000000
+      internalID: 8966895261027405467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0523d6e469ae3110800000000000000
+      internalID: 1242616798035256586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wererat Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623dbdd47caaa2540800000000000000
+      internalID: 4983983710620341030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
