@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dog_idle_blink_strip8_0: 3590541919195516301
+      dog_idle_blink_strip8_1: 8135328008108439650
+      dog_idle_blink_strip8_2: 2813162702314337120
+      dog_idle_blink_strip8_3: -6596195392926527043
+      dog_idle_blink_strip8_4: 2440224599951317738
+      dog_idle_blink_strip8_5: -2648861172639018014
+      dog_idle_blink_strip8_6: -4441930275753777114
+      dog_idle_blink_strip8_7: 8902314906107026010
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

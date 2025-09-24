@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dog_dash_strip9_0: 1020536791186090745
+      dog_dash_strip9_1: -7594530473095242693
+      dog_dash_strip9_2: -7182231280495497371
+      dog_dash_strip9_3: -5380365685335600125
+      dog_dash_strip9_4: 328677545790604161
+      dog_dash_strip9_5: -4410485047178124678
+      dog_dash_strip9_6: 1361671665431400732
+      dog_dash_strip9_7: -1953135304721054683
+      dog_dash_strip9_8: -6901344028849240101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -12,8 +13,8 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
+  - Player
+  - Enemy
   - 
   - 
   - 
@@ -41,6 +42,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: 1sky
+    uniqueID: 3131747609
+    locked: 0
+  - name: 2clouds
+    uniqueID: 2766948595
+    locked: 0
+  - name: 3background
+    uniqueID: 2913493231
+    locked: 0
+  - name: 4foreground
+    uniqueID: 3146238133
+    locked: 0
   - name: front
     uniqueID: 513921545
     locked: 0
@@ -49,6 +62,9 @@ TagManager:
     locked: 0
   - name: player
     uniqueID: 322031285
+    locked: 0
+  - name: enemy
+    uniqueID: 1364942945
     locked: 0
   m_RenderingLayers:
   - Default
