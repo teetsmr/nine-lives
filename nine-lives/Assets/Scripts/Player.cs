@@ -139,4 +139,9 @@ public class Player : MonoBehaviour
         anim.SetBool("isWalking", Mathf.Abs(moveInput.x) > .1f && isGrounded);
     }
 
+    public void ApplyPowerupModifier(PowerupModifier powerupModifier)
+    {
+        powerupModifier.Activate(gameObject);
+    }
+
 }

@@ -4,13 +4,13 @@ public class Health : MonoBehaviour
 {
     [SerializeField] private float startingHealth;
     public float currentHealth { get; private set; }
-    private Animator anim;
+    [SerializeField] private Animator anim;
     private bool dead;
 
     private void Awake()
     {
         currentHealth = startingHealth;
-        anim = GetComponent<Animator>();
+
     }
 
     public void TakeDamage(float _damage)
@@ -30,6 +30,12 @@ public class Health : MonoBehaviour
             }
 
         }
+    }
+
+    public void Heal(int amount)
+    {
+        currentHealth = Mathf.Min(startingHealth, currentHealth + amount);
+        // update UI if needed
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
