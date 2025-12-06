@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf54ae3eced07414ea6d74ca3f60057b, type: 3}
   m_Name: Speed Modifier Small
   m_EditorClassIdentifier: 
-  newSpeed: 12
+  newSpeed: 6

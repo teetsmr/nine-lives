@@ -7,9 +7,14 @@ public class Health : MonoBehaviour
     [SerializeField] private Animator anim;
     private bool dead;
 
+    AudioManager audioManager;
+    [SerializeField] private AudioClip hurtClip;
+    [SerializeField] private AudioClip dieClip;
+
     private void Awake()
     {
         currentHealth = startingHealth;
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
     }
 
@@ -19,6 +24,8 @@ public class Health : MonoBehaviour
         if(currentHealth > 0)
         {
             anim.SetTrigger("hurt");
+            AudioManager.Instance?.PlaySFX(hurtClip);
+
         }
         else
         {
@@ -27,6 +34,7 @@ public class Health : MonoBehaviour
                 anim.SetTrigger("die");
                 GetComponent<Player>().enabled = false;
                 dead = true;
+                AudioManager.Instance?.PlaySFX(dieClip);
             }
 
         }
