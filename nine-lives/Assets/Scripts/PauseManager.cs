@@ -1,12 +1,22 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Rendering;       
+using UnityEngine.Rendering.Universal;
 
 public class PauseManager : MonoBehaviour
 {
     [SerializeField] GameObject pausePanel; 
-    [SerializeField] string mainMenuScene = "Main Menu"; 
+    [SerializeField] string mainMenuScene = "Main Menu";
+
+    [SerializeField] private Volume postVolume;
+    private ChromaticAberration ca;
 
     bool paused;
+
+    void Awake()
+    {
+        if (postVolume) postVolume.profile.TryGet(out ca); // cache the CA override if present
+    }
 
     void Update()
     {
@@ -21,6 +31,7 @@ public class PauseManager : MonoBehaviour
         if (pausePanel) pausePanel.SetActive(paused);
         Cursor.visible = paused;
         Cursor.lockState = paused ? CursorLockMode.None : CursorLockMode.Locked;
+        if (ca != null) ca.active = !paused;
     }
 
     public void GoToMainMenu()
